@@ -1,0 +1,23 @@
+{
+  "name": "tpl2mod",
+  "version": "0.0.1",
+  "description": "convert plain text to javascript string",
+  "main": "lib/tpl2mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tpl2mod": "bin/tpl2mod.js"
+  },
+  "keywords": [
+    "convert",
+    "transform",
+    "template",
+    "string"
+  ],
+  "author": "spud",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "~2.1.0"
+  }
+}
